@@ -1,3 +1,23 @@
-.exe
-.vscode
-.json
+# Ignore compiled files
+*.exe
+*.out
+*.obj
+*.o
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore build folders
+/build/
+/dist/
+/bin/
+/debug/
+/release/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temp files
+*.log
+*.tmp
