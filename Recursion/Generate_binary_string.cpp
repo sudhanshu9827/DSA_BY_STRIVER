@@ -1,7 +1,7 @@
 // Intution : 
-// when first element add into the stack
+// when first element add last is nothing or i can putt as "0" also
 //when zero previously 1 and 0 both add recursive step 
-// when already 1 onl zero can be added 
+// when already 1 only zero can be added 
 
 // 3 
 //       1      0
