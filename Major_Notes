@@ -1,0 +1,22 @@
+
+1.
+# I have a question in my mind can't i sort the unordered_map ?
+# the answer in no because it store in unspecified order 
+# untill we need store unodered map into vector then sort based on first value or second value 
+
+# vector<pair<int , int>>
+# sort(ump.begin() , ump.end, [](const pair<int , int >& a , cont pair<int , int>& b){
+#     # what the basis you want to sort 
+#     a.second > b . second # decending order on the basis of 2nd value of map
+# });
+
+2 .
+
+substr(pos, len);
+It returns a string object.
+
+
+# str1.find(str2) it will find the substring in the string 
+
+
+
