@@ -5,6 +5,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Approach 1 
+// time overhead for every possible soluion implementing sorting which is worst 
 
 // issme sorting karke kaam hoo raha hai but bina kare nahi pata nhi kyui 
 // class Solution {
