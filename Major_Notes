@@ -12,11 +12,15 @@
 
 2 .
 
-substr(pos, len);
-It returns a string object.
+# substr(pos, len);
+# It returns a string object.
 
 
-# str1.find(str2) it will find the substring in the string 
+# str1.find(str2) it will find the substring in the string
+
+# s.insert(iterator , character);
+# s. insert(position(3 ,4) , string)
+# s.erase(iterator1 , iterator2 ) last wala exclude reheta hai 
 
 
 
