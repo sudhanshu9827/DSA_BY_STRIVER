@@ -23,4 +23,16 @@
 # s.erase(iterator1 , iterator2 ) last wala exclude reheta hai 
 
 
+# want to reinitalize again use 
 
+#  ** fill 
+
+# Dont forget to look the constraints of the question
+
+# Any How try to find your mistake highlights the part that you think here could be the mistake 
+
+# karne se pehle test cases too soch loo warna time bhi barwaad aur question bhi nhi hoga
+
+# To take out the first element of the vector we need to erase that element 
+
+# vector_name.erase(vector_name.begin())
