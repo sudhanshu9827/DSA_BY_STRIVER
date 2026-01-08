@@ -36,3 +36,6 @@
 # To take out the first element of the vector we need to erase that element 
 
 # vector_name.erase(vector_name.begin())
+
+
+# clarity->testCaseCheck->presenceOfMind->check after complete => always correct code 
