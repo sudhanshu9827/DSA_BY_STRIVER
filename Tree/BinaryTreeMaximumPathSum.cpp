@@ -21,6 +21,28 @@ int dfs(TreeNode* root , int &maxPath){
 
      return max(root->val, root->val + max(left , right)); 
 }
+
+
+// Remind mathod 
+class Solution2 {
+    int dfs(TreeNode* root , int &maxPath){
+        if(!root)return 0;
+
+        int left = max(0 , dfs(root->left , maxPath));
+        int right =max(0 , dfs(root->right , maxPath));
+
+        maxPath = max(maxPath , left + right + root->val);
+
+        return max(left , right) + root->val; 
+    }
+    public:
+        int maxPathSum(TreeNode* root) {
+            int maxPath = INT_MIN;
+            dfs(root , maxPath);
+
+            return maxPath;
+        }
+};
     
 public:
     int maxPathSum(TreeNode* root) {
