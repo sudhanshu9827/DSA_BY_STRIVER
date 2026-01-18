@@ -39,3 +39,16 @@
 
 
 # clarity->testCaseCheck->presenceOfMind->check after complete => always correct code 
+
+<!-- Remember  -->
+What is stringstream and what purpose it is used for ?
+
+Easily convert between strings and primitive data types (integers, floats, etc.).
+
+Parsing/Tokenizing: Break a string into individual words or data elements separated by whitespace or a custom delimiter.
+
+like line = "101 dfd 900"
+string aur number ko alag karana how 
+
+using stringstream easily can do 
+
