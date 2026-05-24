@@ -1,0 +1,16 @@
+1. max_element me end exclusive reheta hai galti just a small mistake logic is correct 
+    Take care from next time 
+
+
+// sort comp me static lagana padega because it demands pointer callable 
+
+
+// string_name.insert(iterator , value )
+
+
+iterator hamesha pahele lagaooooooooooooo
+
+
+// we are not passing iterator to substr 
+
+just s.substr(startPoint , lenght)
