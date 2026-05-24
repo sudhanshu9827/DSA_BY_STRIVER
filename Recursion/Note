@@ -1,0 +1,3 @@
+In case of only 1 answer is required:
+1. In base condition satisfied you return an answer true not satisfied false
+2. whenever in the funtion call check by if true dont need to check further or else at the end
