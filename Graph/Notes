@@ -1,0 +1,4 @@
+We can store the graph in two ways:
+
+1. Adjacency Matrix : which take n * n size where n is the number of nodes
+2. Adjacency List : which is the list of vectors and maximum size goes up to O(2E){FOR UNIDRECTED} and for directed O(E) where E is the number of edges 
